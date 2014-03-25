@@ -1,0 +1,7 @@
+# Ignore komodo tools
+*.komodo*
+
+# Ignore the build files for now.
+*.xpi
+*.p.*
+build/

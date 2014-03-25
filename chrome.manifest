@@ -1,0 +1,12 @@
+
+
+
+
+
+
+content testtodoextension jar:testtodo_extension.jar!/content/
+skin testtodoextension classic/1.0 jar:testtodo_extension.jar!/skin/
+locale testtodoextension en-US jar:testtodo_extension.jar!/locale/en-US/
+
+
+overlay chrome://komodo/content/komodo.xul chrome://testtodoextension/content/testtodoextension_overlay.xul

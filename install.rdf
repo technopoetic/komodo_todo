@@ -2,8 +2,8 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
     <Description about="urn:mozilla:install-manifest">
-        <em:id>testtodo_extension@yourdomain.org</em:id>
-        <em:name>testtodo_extension</em:name>
+        <em:id>komodo_todo@yourdomain.org</em:id>
+        <em:name>komodo_todo</em:name>
         <em:version>0.1</em:version>
         <em:description></em:description>
         <em:creator>Me</em:creator>
